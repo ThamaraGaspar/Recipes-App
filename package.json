@@ -27,7 +27,7 @@
     "websocket-extensions": ">=0.1.4"
   },
   "scripts": {
-    "homepage": "https://thamaragaspar.github.io/recipes-app/",
+    "homepage": "https://thamaragaspar.github.io/Recipes-app/",
     "cy": "cypress run",
     "cy:open": "cypress open",
     "start": "react-scripts start",
